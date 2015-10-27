@@ -1,6 +1,4 @@
-package com.orm.query;
-
-import com.orm.SugarRecord;
+package com.orm;
 
 public class Condition {
 

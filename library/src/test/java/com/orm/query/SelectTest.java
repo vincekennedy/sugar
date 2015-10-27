@@ -1,5 +1,6 @@
 package com.orm.query;
 
+import com.orm.Select;
 import org.junit.Test;
 
 import static junit.framework.Assert.assertEquals;

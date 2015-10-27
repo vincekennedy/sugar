@@ -1,6 +1,5 @@
-package com.orm.query;
+package com.orm;
 
-import com.orm.SugarRecord;
 import com.orm.util.NamingHelper;
 
 import java.util.ArrayList;
